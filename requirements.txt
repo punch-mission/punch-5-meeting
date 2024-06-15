@@ -1,0 +1,7 @@
+matplotlib
+numpy
+astropy
+sunpy
+ndcube
+reproject
+mpl_animators
