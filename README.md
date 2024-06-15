@@ -1,4 +1,4 @@
-# punch-5-meeting
+# PUNCH 5 Science Meeting SOC Materials
 
 > [!warning]
 > **This collection of material is not yet finalized.**
