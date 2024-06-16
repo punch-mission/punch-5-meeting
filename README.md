@@ -27,9 +27,9 @@ A sample IDL script for reading PUNCH data is under development at https://githu
 
 ## What are the `example_data`?
 
-This data simulates real PUNCH Level 3 data.
-It does not include a starfield or F-corona.
-The next iteration of this data will include realistic noise.
+These data simulates real PUNCH Level 3 data.
+They does not include a starfield or F-corona.
+The next iteration of these data will include realistic noise.
 
 - L3 - Level 3 total brightness and polarized brightness
     - PAM - PUNCH Level-3 Polarized Low Noise Mosaic – 32 minutes
