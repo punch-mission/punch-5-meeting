@@ -47,7 +47,7 @@ With the public release of PUNCH Python tools, a more sophisticated data handler
 
 To access the full set of images go to [https://data.boulder.swri.edu/mhughes/punch_synthetic_data/](https://data.boulder.swri.edu/mhughes/punch_synthetic_data/).
 
-As data is improved a new version will be released. The first version is in the v1 folder. The second in v2 and so forth.
+As data are improved a new version will be released. The first version is in the v1 folder. The second in v2 and so forth.
 
 - v1: the initial version
 - v2: fixes WCS misalignment, makes uncertainty more realistic, fixes scaling problem in data
