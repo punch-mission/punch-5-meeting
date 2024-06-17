@@ -13,6 +13,7 @@ This repository includes the following materials:
 - *guide.ipynb*: a notebook that explains how to utilize PUNCH data
 - *requirements.txt*: the Python packages used by the notebook
 - *example_data/*: a few files to explore the data with
+- *example_movies/*: some movies of the synthetic data
 - *LICENSE*: a license for using these materials
 
 ## Getting started
