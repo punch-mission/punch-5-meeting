@@ -1,0 +1,8 @@
+ipykernel
+matplotlib
+numpy==1.26.4
+astropy
+sunpy
+ndcube
+reproject
+mpl_animators
