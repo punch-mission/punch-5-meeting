@@ -1,5 +1,6 @@
+ipykernel
 matplotlib
-numpy
+numpy==1.26.4
 astropy
 sunpy
 ndcube
