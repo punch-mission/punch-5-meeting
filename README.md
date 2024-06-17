@@ -8,7 +8,8 @@ Examples from the SOC for the [fifth PUNCH Science Meeting](https://punch.space.
 
 This repository includes the following materials:
 
-- *slides.pdf*: slides from Chris Lowder that were presented at the meeting
+- *lowder_slides.pdf*: slides from Chris Lowder that were presented at the meeting about how to use the data
+- *hughes_premeeting_slides.pdf*: slides from Marcus Hughes introducing the SOC at the premeeting
 - *guide.ipynb*: a notebook that explains how to utilize PUNCH data
 - *requirements.txt*: the Python packages used by the notebook
 - *example_data/*: a few files to explore the data with
